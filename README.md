@@ -21,9 +21,9 @@
 
 <div align="center"> 
   <a href="https://github.com/DMS055/SzyszMessage">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=SzyszMessage&bg_color=000&border_radius=10&text_color=c3c6c6&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=SzyszMessage&bg_color=000&border_radius=10&text_color=191919&show_owner=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=EQPlugin&bg_color=000&border_radius=10&text_color=c3c6c6&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=EQPlugin&bg_color=000&border_radius=10&text_color=191919&show_owner=true" />
   </a>
 </div>
