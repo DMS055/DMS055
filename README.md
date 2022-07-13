@@ -1,4 +1,4 @@
-**<Hi, I’m D.M.S>**
+**<Hi, I’m D.M.S/>**
 
 I'm a somewhat expirienced full stack web and software developer, a guitarist and a full-time depressed idiot.
 
