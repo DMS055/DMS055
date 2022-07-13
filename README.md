@@ -9,7 +9,9 @@
      <a href="https://github.com/DMS055">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DMS055&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=25&hide_border=true" />
     </a>
-    <a href="">
+    <a href="https://github.com/DMS055">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS055&theme=tokyonight&line_height=40&hide=css&layout=compact&hide_border=true&card_width=250"/>
     </a>
-</div
+</div>
+
+
