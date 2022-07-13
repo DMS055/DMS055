@@ -1,6 +1,6 @@
 <h1> Welcome, dear lovely person :heart:</h1>
 <div>
-  <h2> I'm happy to welcome you as one of <img src="https://komarev.com/ghpvc/?username=DMS055&color=608fdc&label=this+page's&style=flat-square"/> visitors! </h2>
+  <h2> I'm happy to welcome you as one of <img src="https://komarev.com/ghpvc/?username=DMS055&color=70a5fd&label=this+page's&style=flat-square"/> visitors! </h2>
 </div>
 
 <br/>
