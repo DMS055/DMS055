@@ -1,12 +1,15 @@
-**<Hi, I’m D.M.S/>**
+<h1> Welcome, dear lovely person :heart:</h1>
+<div>
+  <h2> I'm happy to welcome you as one of <img src="https://komarev.com/ghpvc/?username=DMS055&color=608fdc&label=this+page's&style=flat-square"/> visitors! </h2>
+</div>
 
-I'm a somewhat expirienced full stack web and software developer, a guitarist and a full-time depressed idiot.
+<br/>
 
-I’m currently expanding my React knowledge and playing around with unnecessarily complex stuff in HTML canvas (it's way more fun that you'd expect!).
-
-__To contact me, add me on Discord - D.M.S#0225__
-
-<!---
-DMS055/DMS055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center"> 
+     <a href="https://github.com/DMS055">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DMS055&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=25&hide_border=true" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS055&theme=tokyonight&line_height=40&hide=css&layout=compact&hide_border=true"/>
+    </a>
+</div
