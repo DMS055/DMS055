@@ -21,7 +21,7 @@
 # My active repos!
 
 <div align="center"> 
-  <a href="https://github.com/DMS055/SzyszMessage">
+  <a href="https://github.com/DMS055/AsciiImageConverter">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=AsciiImageConverter&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
   </a>
   <a href="https://github.com/DMS055/GenerativeArt">
