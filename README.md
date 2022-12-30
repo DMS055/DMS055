@@ -24,8 +24,8 @@
   <a href="https://github.com/DMS055/LSTMDeepLearning_SignLanguage">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=LSTMDeepLearning_SignLanguage&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
   </a>
-  <a href="https://github.com/DMS055/createproject">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=createproject&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
+  <a href="https://github.com/DMS055/happynewyear">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=happynewyear&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
   </a>
 </div>
 
