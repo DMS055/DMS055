@@ -21,8 +21,8 @@
 # My active repos!
 
 <div align="center"> 
-  <a href="https://github.com/DMS055/LSTMDeepLearning_SignLanguage">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=LSTMDeepLearning_SignLanguage&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
+  <a href="https://github.com/DMS055/ExpenseTracker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=ExpenseTracker&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
   </a>
   <a href="https://github.com/DMS055/KrzesinySpotted">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=KrzesinySpotted&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
