@@ -7,7 +7,7 @@
 
 <div align="center"> 
      <a href="https://github.com/DMS055">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMS055&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=20&border_color=000" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMS055&show_icons=true&count_private=true&theme=tokyonight&line_height=20&border_color=000" />
     </a>
     <a href="https://github.com/DMS055">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS055&theme=tokyonight&line_height=40&hide=css&layout=compact&card_width=250&border_color=000" />
