@@ -19,27 +19,10 @@
 ---
 
 # My active repos!
-
-<div align="center"> 
-  <a href="https://github.com/DMS055/ExpenseTracker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=ExpenseTracker&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
-  </a>
+<div align="center">
   <a href="https://github.com/DMS055/TranScript">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DMS055&repo=TranScript&bg_color=191919&border_radius=10&text_color=c3c6c6&show_owner=true" />
   </a>
 </div>
 
 <br/>
-
----
- 
-<br/>
-
-<div align="center"> 
-  <a href="https://twitter.com/DMS55633157">
-    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/passagenoir/">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a> 
-</div>
